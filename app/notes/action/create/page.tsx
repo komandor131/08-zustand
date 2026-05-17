@@ -5,7 +5,7 @@ import css from "./CreateNote.module.css";
 
 const title = "Create note | NoteHub";
 const description = "Create a new note in NoteHub.";
-const url = "/notes/action/create";
+const url = "https://notehub.goit.study/notes/action/create";
 
 export const metadata: Metadata = {
   title,
